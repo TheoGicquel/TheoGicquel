@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **theo.gicquel.work@gmail.com**
 
-- 📄 Find me on LinkedIn [https://www.linkedin.com/in/th%C3%A9o-gicquel/](https://www.linkedin.com/in/th%C3%A9o-gicquel/)
+- 📄 Find me on LinkedIn [https://www.linkedin.com/in/théo-gicquel/](https://www.linkedin.com/in/théo-gicquel/)
 
 
 <h3 align="left">Languages and Tools:</h3>
